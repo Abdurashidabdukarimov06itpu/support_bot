@@ -47,14 +47,16 @@ Create a virtual environment
    # For Bash and Windows
    python -m venv venv
 2. ** Activate the virtual environment**
-   .On Windows  
 ```bash
 # For Windows
 venv\Scripts\activate
-
+```
+```
 # For Bash (macOS/Linux)
 source venv/bin/activate
-
- 
+```
+3.**Run the program**
+```bash
+streamlit run app.py
 
 
