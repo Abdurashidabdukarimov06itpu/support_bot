@@ -40,18 +40,21 @@ Follow these steps to run the application locally:
 
 Create a virtual environment
 
-# bash and windows
-<pre> python -m venv venv``` </pre>
+## 📝 Installation & Run
 
-Activate the virtual environment
+1. **Create a virtual environment**
+   ```bash
+   # For Bash and Windows
+   python -m venv venv
+2. ** Activate the virtual environment**
+   .On Windows  
+```bash
+# For Windows
+venv\Scripts\activate
 
-# On Windows:
-```venv\Scripts\activate```
+# For Bash (macOS/Linux)
+source venv/bin/activate
 
+ 
 
-# bash
-```source venv/bin/activate```
-
-# for run program
-```streamlit run app.py```
 
