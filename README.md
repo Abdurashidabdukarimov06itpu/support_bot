@@ -45,14 +45,17 @@ Create a virtual environment
 1. **Create a virtual environment**
    ```bash
    # For Bash and Windows
+   
    python -m venv venv
-2. ** Activate the virtual environment**
+2.**Activate the virtual environment**
 ```bash
 # For Windows
+
 venv\Scripts\activate
 ```
 ```bash
 # For macOS/Linux
+
 source venv/bin/activate
 ```
 3.**Run the program**
