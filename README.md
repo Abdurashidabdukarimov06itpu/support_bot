@@ -40,29 +40,17 @@ Follow these steps to run the application locally:
 
 Create a virtual environment
 
-bash
-
+# bash and windows
 python -m venv venv
 Activate the virtual environment
 
-On Windows:
-
-bash
-
+# On Windows:
 venv\Scripts\activate
-On macOS/Linux:
 
-bash
 
-source venv/bin/activate
-Install the required dependencies
+# bash
+venv\Scripts\activate
 
-bash
-
-pip install -r requirements.txt
-Run the application
-
-bash
-
+# for run program
 streamlit run app.py
 
