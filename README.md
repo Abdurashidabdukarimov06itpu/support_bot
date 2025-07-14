@@ -41,7 +41,8 @@ Follow these steps to run the application locally:
 Create a virtual environment
 
 # bash and windows
-python -m venv venv
+python -m venv venv 
+
 Activate the virtual environment
 
 # On Windows:
