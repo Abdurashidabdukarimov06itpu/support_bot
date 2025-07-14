@@ -36,6 +36,7 @@ Follow these steps to run the application locally:
 
 1. **Clone the repository**
    ```bash
+   https://github.com/Abdurashidabdukarimov06itpu/support_bot.git
 
 Create a virtual environment
 
