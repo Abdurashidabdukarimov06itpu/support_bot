@@ -52,7 +52,8 @@ Create a virtual environment
 venv\Scripts\activate
 ```
 ```
-# For Bash (macOS/Linux)
+# For Bash- (macOS/Linux)
+
 source venv/bin/activate
 ```
 3.**Run the program**
