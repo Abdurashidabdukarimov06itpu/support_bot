@@ -41,17 +41,17 @@ Follow these steps to run the application locally:
 Create a virtual environment
 
 # bash and windows
-<pre> ```python -m venv venv```</pre> 
+<pre> python -m venv venv</pre> 
 
 Activate the virtual environment
 
 # On Windows:
-<pre>```venv\Scripts\activate```</pre>
+<pre>venv\Scripts\activate</pre>
 
 
 # bash
-<pre>```source venv/bin/activate```</pre>
+<pre>source venv/bin/activate</pre>
 
 # for run program
-<pre>```streamlit run app.py```</pre>
+<pre>streamlit run app.py</pre>
 
